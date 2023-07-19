@@ -5,4 +5,4 @@ waterTime = int(time.strftime('%H'))
 if (waterTime < 11):
     print('You had to drink water after every hour.')
 else:
-    print('You are ok.')
+    print('It's OK. Just Chill.')
